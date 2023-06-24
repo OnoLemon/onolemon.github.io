@@ -24,7 +24,7 @@
   friends_vue_info: undefined,
   navMusic: true,
   changeMainColorPost: undefined,
-  algolia: {"appId":"68LNTW2BY7","apiKey":"89cc4727519e3b5c721f07f7e3810487","indexName":"Blog","hits":{"per_page":6},"languages":{"input_placeholder":"键入后按下回车搜索！","hits_empty":"找不到您查询的内容：${query}","hits_stats":"找到 ${hits} 条结果，用时 ${time} 毫秒"}},
+  algolia: {"appId":"68LNTW2BY7","apiKey":"89cc4727519e3b5c721f07f7e3810487","indexName":"blog","hits":{"per_page":6},"languages":{"input_placeholder":"键入后按下回车搜索！","hits_empty":"找不到您查询的内容：${query}","hits_stats":"找到 ${hits} 条结果，用时 ${time} 毫秒"}},
   localSearch: undefined,
   translate: {"defaultEncoding":2,"translateDelay":0,"msgToTraditionalChinese":"繁","msgToSimplifiedChinese":"简","rightMenuMsgToTraditionalChinese":"转为繁体","rightMenuMsgToSimplifiedChinese":"转为简体"},
   noticeOutdate: {"limitDay":365,"position":"top","messagePrev":"一直以来","messageNext":"自上次更新以来已经很久了，文章的内容可能已经过时。"},
@@ -406,7 +406,7 @@ queueMicrotask(() => {
   const getComment = () => {
     const runTwikoo = () => {
       twikoo.getRecentComments({
-        envId: 'https://xiaoyeono.zeabur.app/',
+        envId: 'https://onolemon.zeabur.app/',
         region: '',
         pageSize: 6,
         includeReply: true
