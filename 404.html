@@ -53,7 +53,7 @@
   isHome: false,
   isHighlightShrink: false,
   isToc: false,
-  postUpdate: '2023-07-01 02:37:22'
+  postUpdate: '2023-07-01 02:42:50'
 }</script><noscript><style type="text/css">
   #nav {
     opacity: 1
@@ -356,7 +356,7 @@ queueMicrotask(() => {
     const footer = document.getElementById("footer");
     if (!footer) return
     let currentTimeHtml = "";
-    if (nowHour < 18 && nowHour >= 9) {
+    if (nowHour < 17 && nowHour >= 9) {
       // 如果是上班时间，默认就是"小野-上班摸鱼中.svg"图片，不需要更改
       currentTimeHtml = `本站居然运行了 ${dnum} 天<span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span><i class='anzhiyufont anzhiyu-icon-heartbeat' style='color:red'></i>`;
     } else {
