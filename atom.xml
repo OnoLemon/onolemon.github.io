@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>听风野语</title>
+  <icon>https://www.gravatar.com/avatar/54942ce682c7578a3866b2f712546be4</icon>
+  <subtitle>生活明朗，万物可爱</subtitle>
+  <link href="http://onolemon.top/atom.xml" rel="self"/>
+  
+  <link href="http://onolemon.top/"/>
+  <updated>2023-06-24T12:24:38.767Z</updated>
+  <id>http://onolemon.top/</id>
+  
+  <author>
+    <name>小野</name>
+    <email>onolemon@163.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://onolemon.top/posts/3eeb.html"/>
+    <id>http://onolemon.top/posts/3eeb.html</id>
+    <published>2023-06-24T12:24:38.767Z</published>
+    <updated>2023-06-24T12:24:38.767Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
