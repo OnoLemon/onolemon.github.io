@@ -382,7 +382,7 @@ queueMicrotask(() => {
   const init = () => {
     twikoo.init(Object.assign({
       el: '#twikoo-wrap',
-      envId: 'https://onolemon.zeabur.app/',
+      envId: 'http://42.192.129.140:8080/',
       region: '',
       onCommentLoaded: function () {
         anzhiyu.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.tk-owo-emotion)'))
@@ -394,7 +394,7 @@ queueMicrotask(() => {
     const countELement = document.getElementById('twikoo-count')
     if(!countELement) return
     twikoo.getCommentsCount({
-      envId: 'https://onolemon.zeabur.app/',
+      envId: 'http://42.192.129.140:8080/',
       region: '',
       urls: [window.location.pathname],
       includeReply: false
@@ -443,7 +443,7 @@ queueMicrotask(() => {
   const getComment = () => {
     const runTwikoo = () => {
       twikoo.getRecentComments({
-        envId: 'https://onolemon.zeabur.app/',
+        envId: 'http://42.192.129.140:8080/',
         region: '',
         pageSize: 6,
         includeReply: true
@@ -535,7 +535,7 @@ document.addEventListener('visibilitychange', function () {
   var commentBarrageConfig = {
     maxBarrage: 1,
     barrageTime: 4000,
-    twikooUrl: "https://onolemon.zeabur.app/",
+    twikooUrl: "http://42.192.129.140:8080/",
     accessToken: "70467d5027e44143e424f4b3b276ff41",
     mailMd5: "deb69d6528dca7bb0f4d07ae42f5284c",
     pageUrl: window.location.pathname,
