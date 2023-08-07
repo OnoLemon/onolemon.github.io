@@ -6,7 +6,7 @@
   <link href="http://onolemon.top/atom.xml" rel="self"/>
   
   <link href="http://onolemon.top/"/>
-  <updated>2023-08-07T14:11:33.238Z</updated>
+  <updated>2023-08-07T15:16:45.730Z</updated>
   <id>http://onolemon.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://onolemon.top/posts/6b94.html"/>
     <id>http://onolemon.top/posts/6b94.html</id>
     <published>2023-08-07T11:07:36.000Z</published>
-    <updated>2023-08-07T14:11:33.238Z</updated>
+    <updated>2023-08-07T15:16:45.730Z</updated>
     
     
       
@@ -55,6 +55,28 @@
     
     
     <category term="encrypt" scheme="http://onolemon.top/tags/encrypt/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Lambda表达式</title>
+    <link href="http://onolemon.top/posts/8609.html"/>
+    <id>http://onolemon.top/posts/8609.html</id>
+    <published>2022-05-10T09:55:38.000Z</published>
+    <updated>2023-08-07T15:17:12.591Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Lambda表达式&quot;&gt;&lt;a href=&quot;#Lambda表达式&quot; class=&quot;headerlink&quot; title=&quot;Lambda表达式&quot;&gt;&lt;/a&gt;Lambda表达式&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;今天在网上找资料的时候看到个很有趣的东西&lt;/p&gt;
+&lt;/bl</summary>
+      
+    
+    
+    
+    
+    <category term="Java" scheme="http://onolemon.top/tags/Java/"/>
     
   </entry>
   

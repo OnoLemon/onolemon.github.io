@@ -15,7 +15,7 @@
     <atom:link href="http://onolemon.top/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>假设这里有描述</description>
-    <pubDate>Mon, 07 Aug 2023 14:11:33 GMT</pubDate>
+    <pubDate>Mon, 07 Aug 2023 15:16:45 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -61,6 +61,30 @@
       
       
       <comments>http://onolemon.top/posts/3eeb.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Lambda表达式</title>
+      <link>http://onolemon.top/posts/8609.html</link>
+      <guid>http://onolemon.top/posts/8609.html</guid>
+      <pubDate>Tue, 10 May 2022 09:55:38 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;Lambda表达式&quot;&gt;&lt;a href=&quot;#Lambda表达式&quot; class=&quot;headerlink&quot; title=&quot;Lambda表达式&quot;&gt;&lt;/a&gt;Lambda表达式&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;今天在网上找资料的时候看到个很有趣的东西&lt;/p&gt;
+&lt;/bl</description>
+        
+      
+      
+      
+      
+      
+      <category domain="http://onolemon.top/tags/Java/">Java</category>
+      
+      
+      <comments>http://onolemon.top/posts/8609.html#disqus_thread</comments>
       
     </item>
     
