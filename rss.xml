@@ -15,8 +15,34 @@
     <atom:link href="http://onolemon.top/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>假设这里有描述</description>
-    <pubDate>Sun, 09 Jul 2023 16:10:38 GMT</pubDate>
+    <pubDate>Mon, 07 Aug 2023 11:10:57 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Java GUI编程</title>
+      <link>http://onolemon.top/posts/6b94.html</link>
+      <guid>http://onolemon.top/posts/6b94.html</guid>
+      <pubDate>Mon, 07 Aug 2023 11:07:36 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;GUI编程&quot;&gt;&lt;a href=&quot;#GUI编程&quot; class=&quot;headerlink&quot; title=&quot;GUI编程&quot;&gt;&lt;/a&gt;GUI编程&lt;/h1&gt;&lt;p&gt;告诉大家该怎么学？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;这是什么？&lt;/li&gt;
+&lt;li&gt;它怎么玩？&lt;/li&gt;
+&lt;li&gt;该如何去在</description>
+        
+      
+      
+      
+      
+      
+      <category domain="http://onolemon.top/tags/Java/">Java</category>
+      
+      
+      <comments>http://onolemon.top/posts/6b94.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hello World</title>
