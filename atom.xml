@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>听风野语</title>
-  <icon>http://onolemon.top/icon.png</icon>
+  <icon>https://onolemon.top/imgs/avatar.webp</icon>
   <subtitle>落叶归根，听风野语</subtitle>
-  <link href="http://onolemon.top/atom.xml" rel="self"/>
+  <link href="https://onolemon.top/atom.xml" rel="self"/>
   
-  <link href="http://onolemon.top/"/>
+  <link href="https://onolemon.top/"/>
   <updated>2023-08-07T16:22:05.777Z</updated>
-  <id>http://onolemon.top/</id>
+  <id>https://onolemon.top/</id>
   
   <author>
     <name>小野</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Java GUI编程</title>
-    <link href="http://onolemon.top/posts/6b94.html"/>
-    <id>http://onolemon.top/posts/6b94.html</id>
+    <link href="https://onolemon.top/posts/6b94.html"/>
+    <id>https://onolemon.top/posts/6b94.html</id>
     <published>2023-08-07T11:07:36.000Z</published>
     <updated>2023-08-07T16:22:05.777Z</updated>
     
@@ -31,44 +31,106 @@
 &lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;这是什么？&lt;/li&gt;
-&lt;li&gt;它</summary>
+&lt;li&gt;它怎么玩？&lt;/li&gt;
+&lt;li&gt;该如何去在我们平时运用？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;组件&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;窗口&lt;/li&gt;
+&lt;li&gt;弹窗&lt;/li&gt;
+&lt;li&gt;面板&lt;/li&gt;
+&lt;li&gt;文本框&lt;/li&gt;
+&lt;li&gt;列表框&lt;/li&gt;
+&lt;li&gt;按钮&lt;/li&gt;
+&lt;li&gt;图片&lt;/li&gt;
+&lt;li&gt;监听事件&lt;/li&gt;
+&lt;li&gt;鼠标&lt;/li&gt;
+&lt;li&gt;键盘事件&lt;/li&gt;
+&lt;li&gt;破解工具&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;GUI的核心技术：&lt;code&gt;Swing&lt;/code&gt;	&lt;code&gt;AWT&lt;/code&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;因为界面不美观&lt;/li&gt;
+&lt;li&gt;需要jre环境！&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;为什么我们要学习？&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;可以写出自己心中想要的一些小工具&lt;/li&gt;
+&lt;li&gt;工作时候，也可能需要维护到swing界面，概率极小！&lt;/li&gt;
+&lt;li&gt;了解MVC架构，了解监听！&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;AWT&quot;&gt;&lt;a href=&quot;#AWT&quot; class=&quot;headerlink&quot; title=&quot;AWT&quot;&gt;&lt;/a&gt;AWT&lt;/h2&gt;&lt;h3 id=&quot;AWT介绍&quot;&gt;&lt;a href=&quot;#AWT介绍&quot; class=&quot;headerlink&quot; title=&quot;AWT介绍&quot;&gt;&lt;/a&gt;AWT介绍&lt;/h3&gt;&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;包含了很多类和接口！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GUI：&lt;/strong&gt;图形用户界面&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;元素：窗口，按钮，文本框&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;java.awt&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;htt</summary>
       
     
     
     
     
-    <category term="Java" scheme="http://onolemon.top/tags/Java/"/>
+    <category term="Java" scheme="https://onolemon.top/tags/Java/"/>
     
-    <category term="GUI" scheme="http://onolemon.top/tags/GUI/"/>
+    <category term="GUI" scheme="https://onolemon.top/tags/GUI/"/>
     
   </entry>
   
   <entry>
     <title>Hexo博客搭建</title>
-    <link href="http://onolemon.top/posts/a2ae.html"/>
-    <id>http://onolemon.top/posts/a2ae.html</id>
+    <link href="https://onolemon.top/posts/a2ae.html"/>
+    <id>https://onolemon.top/posts/a2ae.html</id>
     <published>2023-06-24T14:05:23.000Z</published>
     <updated>2023-08-07T15:43:44.911Z</updated>
     
     
       
       
-    <summary type="html">&lt;h3 id=&quot;环境说明&quot;&gt;&lt;a href=&quot;#环境说明&quot; class=&quot;headerlink&quot; title=&quot;环境说明&quot;&gt;&lt;/a&gt;环境说明&lt;/h3&gt;&lt;h4 id=&quot;本地环境&quot;&gt;&lt;a href=&quot;#本地环境&quot; class=&quot;headerlink&quot; title=&quot;本地环境&quot;&gt;&lt;/a</summary>
+    <summary type="html">&lt;h3 id=&quot;环境说明&quot;&gt;&lt;a href=&quot;#环境说明&quot; class=&quot;headerlink&quot; title=&quot;环境说明&quot;&gt;&lt;/a&gt;环境说明&lt;/h3&gt;&lt;h4 id=&quot;本地环境&quot;&gt;&lt;a href=&quot;#本地环境&quot; class=&quot;headerlink&quot; title=&quot;本地环境&quot;&gt;&lt;/a&gt;本地环境&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Windows10（64bit）&lt;/li&gt;
+&lt;li&gt;装好了 Git、Nodejs、Hexo&lt;/li&gt;
+&lt;li&gt;在本地调试好了 Hexo 静态网站&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;服务器环境&quot;&gt;&lt;a href=&quot;#服务器环境&quot; class=&quot;headerlink&quot; title=&quot;服务器环境&quot;&gt;&lt;/a&gt;服务器环境&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;云服务器或者自建服务器（CentOS7）&lt;/li&gt;
+&lt;li&gt;装好了 Git 以及 Nginx&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;本地客户端&quot;&gt;&lt;a href=&quot;#本地客户端&quot; class=&quot;headerlink&quot; title=&quot;本地客户端&quot;&gt;&lt;/a&gt;本地客户端&lt;/h3&gt;&lt;h4 id=&quot;配置密钥（在本地机器（Windows环境）中进入）&quot;&gt;&lt;a href=&quot;#配置密钥（在本地机器（Windows环境）中进入）&quot; class=&quot;headerlink&quot; title=&quot;配置密钥（在本地机器（Windows环境）中进入）&quot;&gt;&lt;/a&gt;配置密钥（在本地机器（Windows环境）中进入）&lt;/h4&gt;&lt;p&gt;使用git bash生成ssh公钥&lt;/p&gt;
+&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;ssh-keygen -t rsa -C &amp;quot;your@mail.com&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;一路回车，这时你应该可以在 ~&amp;#x2F;.ssh&amp;#x2F; 目录下看到两个刚刚生成好的密钥文件：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;私钥：id_rsa&lt;/li&gt;
+&lt;li&gt;公钥：id_rsa.pub&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;公钥里面的内容一会需要拷贝到服务</summary>
       
     
     
     
     
-    <category term="Hexo" scheme="http://onolemon.top/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://onolemon.top/tags/Hexo/"/>
     
-    <category term="教程" scheme="http://onolemon.top/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://onolemon.top/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>Lambda表达式</title>
-    <link href="http://onolemon.top/posts/8609.html"/>
-    <id>http://onolemon.top/posts/8609.html</id>
+    <link href="https://onolemon.top/posts/8609.html"/>
+    <id>https://onolemon.top/posts/8609.html</id>
     <published>2022-05-10T09:55:38.000Z</published>
     <updated>2023-08-07T16:22:04.214Z</updated>
     
@@ -77,20 +139,27 @@
       
     <summary type="html">&lt;h2 id=&quot;Lambda表达式&quot;&gt;&lt;a href=&quot;#Lambda表达式&quot; class=&quot;headerlink&quot; title=&quot;Lambda表达式&quot;&gt;&lt;/a&gt;Lambda表达式&lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;今天在网上找资料的时候看到个很有趣的东西&lt;/p&gt;
-&lt;/bl</summary>
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;code&gt;就是这个&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;xxx.addActionListener(e -&amp;gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;comment&quot;&gt;//内容&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;作为一个还在学习中的我，看到这个代码块的时候觉得很新奇&lt;br&gt;因为平时写监听器的时候都是像下面这么写的&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;xxx.addActionListener(&lt;span class=&quot;keyword&quot;&gt;new&lt;/span&gt; &lt;span </summary>
       
     
     
     
     
-    <category term="Java" scheme="http://onolemon.top/tags/Java/"/>
+    <category term="Java" scheme="https://onolemon.top/tags/Java/"/>
     
   </entry>
   
   <entry>
     <title>史上最牛Hello World</title>
-    <link href="http://onolemon.top/posts/7ce5.html"/>
-    <id>http://onolemon.top/posts/7ce5.html</id>
+    <link href="https://onolemon.top/posts/7ce5.html"/>
+    <id>https://onolemon.top/posts/7ce5.html</id>
     <published>2022-04-17T11:47:16.000Z</published>
     <updated>2023-08-07T16:22:41.926Z</updated>
     
@@ -100,22 +169,23 @@
     <summary type="html">&lt;blockquote&gt;
 &lt;p&gt;这是我见过的最 niubility 的 最神奇的 Hello World!&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&quot;预览&quot;&gt;&lt;a href=&quot;#预览&quot; class=&quot;headerlink&quot; title=&quot;预览&quot;&gt;&lt;/a&gt;预览&lt;/h2&gt;&lt;</summary>
+&lt;h2 id=&quot;预览&quot;&gt;&lt;a href=&quot;#预览&quot; class=&quot;headerlink&quot; title=&quot;预览&quot;&gt;&lt;/a&gt;预览&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;https://www.z4a.net/images/2023/08/07/20230228171407-helloworld.gif&quot; alt=&quot;20230228171407-helloworld.gif&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;代码&quot;&gt;&lt;a href=&quot;#代码&quot; class=&quot;headerlink&quot; title=&quot;代码&quot;&gt;&lt;/a&gt;代码&lt;/h2&gt;&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;18&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&amp;lt;</summary>
       
     
     
     
     
-    <category term="分享" scheme="http://onolemon.top/tags/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://onolemon.top/tags/%E5%88%86%E4%BA%AB/"/>
     
-    <category term="JavaScript" scheme="http://onolemon.top/tags/JavaScript/"/>
+    <category term="JavaScript" scheme="https://onolemon.top/tags/JavaScript/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://onolemon.top/posts/3eeb.html"/>
-    <id>http://onolemon.top/posts/3eeb.html</id>
+    <link href="https://onolemon.top/posts/3eeb.html"/>
+    <id>https://onolemon.top/posts/3eeb.html</id>
     <published>2022-02-21T14:05:23.000Z</published>
     <updated>2023-08-07T16:22:12.189Z</updated>
     
@@ -125,7 +195,7 @@
     
     
     
-    <category term="encrypt" scheme="http://onolemon.top/tags/encrypt/"/>
+    <category term="encrypt" scheme="https://onolemon.top/tags/encrypt/"/>
     
   </entry>
   
