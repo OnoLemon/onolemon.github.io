@@ -6204,9 +6204,6 @@ body[data-type="music"] .s-sticker div {
   -ms-transition: 0.3s;
   transition: 0.3s;
 }
-body:has(#console.show) #nav-music {
-  display: none !important;
-}
 @media screen and (max-width: 1400px) {
   body #anMusic-page #anMusicSwitching,
   body #anMusic-page #anMusicRefreshBtn,
@@ -12612,6 +12609,12 @@ blockquote {
 }
 .share-link .share-main .share-main-all .reward-dec {
   font-size: 0.6rem;
+}
+.post-tools .post-tools-left > div {
+  margin: 0;
+}
+.post-tools .post-tools-left {
+  width: auto;
 }
 .relatedPosts {
   margin-top: 40px;
