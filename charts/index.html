@@ -15,7 +15,7 @@ gtag('config', 'G-00S920L0E4');
   friends_vue_info: undefined,
   navMusic: true,
   mainTone: {"mode":"api","api":"https://api.qjqq.cn/api/Imgcolor?img=","cover_change":true},
-  authorStatus: {"skills":["🤖️ 数码科技爱好者","🔍 分享与热心帮助","🏠 智能家居小能手","🔨 设计开发一条龙","🤝 专修交互与设计","🏃 脚踏实地行动派","🧱 团队小组发动机","💢 壮汉人狠话不多"]},
+  authorStatus: undefined,
   algolia: {"appId":"68LNTW2BY7","apiKey":"89cc4727519e3b5c721f07f7e3810487","indexName":"blog","hits":{"per_page":6},"languages":{"input_placeholder":"键入后按下回车搜索！","hits_empty":"找不到您查询的内容：${query}","hits_stats":"找到 ${hits} 条结果，用时 ${time} 毫秒"}},
   localSearch: undefined,
   translate: {"defaultEncoding":2,"translateDelay":0,"msgToTraditionalChinese":"繁","msgToSimplifiedChinese":"简","rightMenuMsgToTraditionalChinese":"转为繁体","rightMenuMsgToSimplifiedChinese":"转为简体"},
@@ -353,7 +353,7 @@ if (true) {
             color: color
           }
         },
-        data: ["encrypt","Hexo","教程","分享","JavaScript","Java GUI","Java"]
+        data: ["Hexo","教程","encrypt","分享","JavaScript","Java","Java GUI"]
       },
       yAxis: {
         name: '文章篇数',
@@ -381,7 +381,7 @@ if (true) {
       series: [{
         name: '文章篇数',
         type: 'bar',
-        data: [{"name":"encrypt","value":1,"path":"tags/encrypt/"},{"name":"Hexo","value":1,"path":"tags/Hexo/"},{"name":"教程","value":1,"path":"tags/教程/"},{"name":"分享","value":1,"path":"tags/分享/"},{"name":"JavaScript","value":1,"path":"tags/JavaScript/"},{"name":"Java GUI","value":1,"path":"tags/Java-GUI/"},{"name":"Java","value":1,"path":"tags/Java/"}],
+        data: [{"name":"Hexo","value":1,"path":"tags/Hexo/"},{"name":"教程","value":1,"path":"tags/教程/"},{"name":"encrypt","value":1,"path":"tags/encrypt/"},{"name":"分享","value":1,"path":"tags/分享/"},{"name":"JavaScript","value":1,"path":"tags/JavaScript/"},{"name":"Java","value":1,"path":"tags/Java/"},{"name":"Java GUI","value":1,"path":"tags/Java-GUI/"}],
         itemStyle: {
           borderRadius: [5, 5, 0, 0],
           color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [{
@@ -460,7 +460,7 @@ if (true) {
         radius: ['15%', '90%'],
         center: ['50%', '55%'],
         sort: 'desc',
-        data: [{"name":"后端开发","value":2,"path":"categories/后端开发/","id":"cll9sk3ko000o20tybm4e8qdn","parentId":"0"},{"name":"Hexo","value":1,"path":"categories/Hexo/","id":"cll9sk3kj000b20tyauyfglrq","parentId":"0"},{"name":"分享","value":1,"path":"categories/分享/","id":"cll9sk3kn000j20tyc40xcm9d","parentId":"0"}],
+        data: [{"name":"后端开发","value":2,"path":"categories/后端开发/","id":"cll9srhf1000yscty209r03th","parentId":"0"},{"name":"Hexo","value":1,"path":"categories/Hexo/","id":"cll9srhet000qsctygtcscz1g","parentId":"0"},{"name":"分享","value":1,"path":"categories/分享/","id":"cll9srhf0000vsctycd7yasin","parentId":"0"}],
         itemStyle: {
           borderColor: '#fff',
           borderWidth: 2,
@@ -482,7 +482,7 @@ if (true) {
           color: color,
           formatter: '{b} : {c} ({d}%)'
         },
-        data: [{"name":"后端开发","value":2,"path":"categories/后端开发/","id":"cll9sk3ko000o20tybm4e8qdn","parentId":"0"},{"name":"Hexo","value":1,"path":"categories/Hexo/","id":"cll9sk3kj000b20tyauyfglrq","parentId":"0"},{"name":"分享","value":1,"path":"categories/分享/","id":"cll9sk3kn000j20tyc40xcm9d","parentId":"0"}],
+        data: [{"name":"后端开发","value":2,"path":"categories/后端开发/","id":"cll9srhf1000yscty209r03th","parentId":"0"},{"name":"Hexo","value":1,"path":"categories/Hexo/","id":"cll9srhet000qsctygtcscz1g","parentId":"0"},{"name":"分享","value":1,"path":"categories/分享/","id":"cll9srhf0000vsctycd7yasin","parentId":"0"}],
         itemStyle: {
           emphasis: {
             shadowBlur: 10,
